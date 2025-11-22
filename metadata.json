@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MilkyWay - Milk Delivery Manager",
+  "description": "A comprehensive management tool for milk delivery businesses (Milkmen) to track customers, daily deliveries, billing, and payments with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
